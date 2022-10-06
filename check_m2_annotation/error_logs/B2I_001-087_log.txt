@@ -1,0 +1,3 @@
+43. reas on vigane märgendusindeks:
+A 16 16|||M:LEX|||saab||saan|||REQUIRED|||-NONE-|||1
+A 13 13|||M:LEX|||sellest|||REQUIRED|||-NONE-|||0
