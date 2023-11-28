@@ -6,7 +6,7 @@ def validate_chars(input_line: str) -> bool:
     for char in input_line:
         if char not in string.ascii_letters and char not in 'õäöüšžÕÄÖÜŠŽ'\
             and char not in string.digits and char not in string.whitespace\
-                and char not in '.,:;!?-"()|€@' and char!="'":
+                and char not in '.,:;!?-"()|€@' and char not in "'’":
             correct_chars = False
     return correct_chars
 
