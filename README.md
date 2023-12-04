@@ -1,4 +1,4 @@
-# Presprocessing scripts for the EstGEC-L2 corpus
+# Preprocessing scripts for the EstGEC-L2 corpus
 
 Scripts for preprocessing the [Estonian L2 Grammatical Error Correction Corpus (EstGEC-L2)](https://github.com/tlu-dt-nlp/m2-corpus) that contains L2 learner texts error-annotated in the M2 format.
 * `convert_conll_to_m2` – used for converting the previous CoNLL-U format error annotation to the M2 format and updating the error tags
